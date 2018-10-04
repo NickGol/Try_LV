@@ -12,7 +12,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="New_VI.vi" Type="VI" URL="../New_VI.vi"/>
-		<Item Name="New_VI_1.vi" Type="VI" URL="../New_VI_1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
